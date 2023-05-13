@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-13T09:00:28.508Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" etag="kYNjxrcYh9jjvvbpL-9q" version="21.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-13T09:01:56.614Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.42" etag="RlzrNT5ks-ZtHvcDKv0N" version="21.3.0" type="github">
   <diagram name="Page-1" id="GKaFxHwM3PYECo6i_Yxy">
     <mxGraphModel dx="598" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -82,6 +82,15 @@
         </mxCell>
         <mxCell id="5eDpabF1M_7-lHHdN3ET-29" value="auth Server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="408" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5eDpabF1M_7-lHHdN3ET-31" value="Service Discovery" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="640" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5eDpabF1M_7-lHHdN3ET-32" value="Config Server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="640" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5eDpabF1M_7-lHHdN3ET-33" value="distributed tracing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="640" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
